@@ -1,5 +1,5 @@
 # University Attendance Management System
-# Folder name must be changed "university-attendance-management-system" to "arif"
+## Folder name must be changed "university-attendance-management-system" to "arif"
 
 The **University Attendance Management System** is a comprehensive solution designed to simplify and automate the process of managing student attendance. This system allows for efficient tracking, checking, and reporting of attendance data.
 
@@ -21,9 +21,13 @@ To install and run the University Attendance Management System locally, follow t
     ```bash
     git clone https://github.com/arifbaust10/university-attendance-management-system.git
     ```
+1. **Change the folder name:**
+    ```bash
+    mv university-attendance-management-system arif
+    ```
 2. **Navigate to the project directory:**
     ```bash
-    cd university-attendance-management-system
+    cd arif
     ```
 3. **Set up the database:**
     - Ensure you have the database named `ums` created in your database management system.
