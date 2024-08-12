@@ -1,5 +1,5 @@
 # University Attendance Management System
-# Folder name must be use "arif"
+# Folder name must be changed "university-attendance-management-system" to "arif"
 
 The **University Attendance Management System** is a comprehensive solution designed to simplify and automate the process of managing student attendance. This system allows for efficient tracking, checking, and reporting of attendance data.
 
